@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dazzl\\Source\\Repos\\DaleStevenJohnson\\HelperCS\\HelperCS\\HelperCS.csproj",
+      "projectUniqueName": "C:\\Users\\dazzl\\source\\repos\\DaleStevenJohnson\\HelperCS\\HelperCS\\HelperCS.csproj",
       "projectName": "HelperCS",
-      "projectPath": "C:\\Users\\dazzl\\Source\\Repos\\DaleStevenJohnson\\HelperCS\\HelperCS\\HelperCS.csproj",
+      "projectPath": "C:\\Users\\dazzl\\source\\repos\\DaleStevenJohnson\\HelperCS\\HelperCS\\HelperCS.csproj",
       "packagesPath": "C:\\Users\\dazzl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dazzl\\Source\\Repos\\DaleStevenJohnson\\HelperCS\\HelperCS\\obj\\",
+      "outputPath": "C:\\Users\\dazzl\\source\\repos\\DaleStevenJohnson\\HelperCS\\HelperCS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
